@@ -1,5 +1,5 @@
 
-
+// NO EXISTE REST EN EL EMACSCRITP 5 !!!!!!!!!!!!!!!!
 // OLD JAVASCRIPT WITH REST 
 // RESTRICCIONES 
 // 1. Sólo puede existir un parámetro rest en la función.
